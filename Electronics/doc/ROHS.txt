@@ -1,0 +1,1 @@
+Toate componentele/pcb-urile sunt ROHS compliant dar certificatele lor trebuie descarcate de pe site-urile distribuitorilor ex: Mouser.com sau JLCPCB.com
